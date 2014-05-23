@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E50E0EF2-57C3-48BB-8D2D-37A5FC3142B3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Week2Assessment</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C30EC2FB-D6D3-4B49-BA0F-1E2FF8389E05</key>
+		<string>https://github.com/rsctiltz/AssessmentWeek2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Week2Assessment/Week2Assessment.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C30EC2FB-D6D3-4B49-BA0F-1E2FF8389E05</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rsctiltz/AssessmentWeek2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C30EC2FB-D6D3-4B49-BA0F-1E2FF8389E05</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C30EC2FB-D6D3-4B49-BA0F-1E2FF8389E05</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AssessmentWeek2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
